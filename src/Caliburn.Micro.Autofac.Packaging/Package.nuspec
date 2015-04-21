@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Caliburn.Micro.Autofac</id>
-    <version>2.0.1</version>
+    <version>2.0.2</version>
     <title>Caliburn.Micro.Autofac</title>
     <authors>David Buksbaum, Eli Brody, Juan Agüí</authors>
     <owners>Juan Agüí</owners>
@@ -17,15 +17,14 @@
       Integration of Caliburn.Micro with Autofac. Source code with sample projects available at https://github.com/dbuksbaum/Caliburn.Micro.Autofac
     </summary>
     <releaseNotes>
-      * Upgrades to Autofac 3.5.2
-      * Upgrades to Caliburn 2.0.1
+      * Upgrades to Caliburn 2.0.2
     </releaseNotes>
     <copyright>Copyright David Buksbaum 2009-2012</copyright>
     <tags>Caliburn.Micro Autofac IoC DI MVVM</tags>
     <language>en-US</language>
     <dependencies>
-      <dependency id="Caliburn.Micro" version="2.0.1"/>
-      <dependency id="Caliburn.Micro.Core" version="2.0.1"/>
+      <dependency id="Caliburn.Micro" version="2.0.2"/>
+      <dependency id="Caliburn.Micro.Core" version="2.0.2"/>
       <dependency id="Autofac" version="3.5.2"/>
     </dependencies>
     <references></references>
